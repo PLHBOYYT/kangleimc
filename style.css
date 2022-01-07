@@ -133,7 +133,7 @@ body {
 /* Description text */
 
 .footerTitle {
-    font-family: productSans;
+    font-family: fontello;
     font-variant: center;
     font-size: 13px;
     color: rgb(124, 116, 116);
